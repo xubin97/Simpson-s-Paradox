@@ -8,4 +8,4 @@ Through case the University of Californla Berkeley research whether it's admissi
 #本库中演示的数据并不是真实数据，但其效果一样。
 This repository use data not true,but have the same effect.
 
-#提供数据：admission_data.csv
+#提供示例数据：admission_data.csv  https://pan.baidu.com/s/1WMJEb2-9JvEoIxaqR6EhAg
